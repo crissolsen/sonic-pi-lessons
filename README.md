@@ -1,12 +1,12 @@
 **This is an archived resource.** The repo will remain available but the resource will no longer be maintained or updated. Some or all parts of the resource may no longer work. To see our latest resources, please visit [raspberrypi.org](http://www.raspberrypi.org).
 
 # Sonic Pi Scheme of Work
+[Sonic Pi](https://sonic-pi.net) is an open source programming environment developed by Dr Sam Aaron, designed to explore and teach programming concepts through the process of creating new sounds. This is a scheme of work which emphasises the importance of creativity in the learning process and gives users the control to turn their sonic ideas into reality.
 
-![](cover.png)
+## Updates
+Sonic Pi has gone through many changes and updates since the original repo (which can still be found from where this was forked or on the original-fork branch) and this is where we'll update the lessons and hopefully scaffold for different age groups.
 
-[Sonic Pi](http://www.cl.cam.ac.uk/projects/raspberrypi/sonicpi/) is an open source programming environment developed by Dr Sam Aaron, designed to explore and teach programming concepts through the process of creating new sounds. This is a scheme of work which emphasises the importance of creativity in the learning process and gives users the control to turn their sonic ideas into reality.
-
-This scheme of work is specifically targetted towards introductory KS3 Computer Science. This has been developed in harmony with the new Computing curriculum in the UK. This scheme of work is the result of a close collaboration between Computing & ICT teachers and researchers at the University of Cambridge. It has been successfully trialled at a number of schools.
+This has been updated to work with any computer, not just Raspberry Pis.
 
 ## Students will learn:
 
@@ -24,33 +24,9 @@ Over the course of six lessons, students will learn:
 	- Functions
 	- Concurrency
 
-## Computing Programme of Study Met:
-
-**KS3:**
-
-- Use 2 or more programming languages, at least one of which is textual, to solve a variety of computational problems; make appropriate use of data structures [for example, lists, tables or arrays]; design and develop modular programs that use procedures or functions.
-
-**Partially meets:**
-
-- Understand the hardware and software components that make up computer systems, and how they communicate with one another and with other systems.
-- Understand how instructions are stored and executed within a computer system; understand how data of various types (including text, sounds and pictures) can be represented and manipulated digitally, in the form of binary digits.
-
-[National Curriculum Computing Programmes of Study](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study#key-stage-3)
-
-## Resources
-
-For the majority of the lesson, it is suggested that work is carried out by students in pairs. Each pair should have access to the standard equipment described below. In addition, it is suggested that you have your own teacher setup connected with a speaker for the demonstration sections.
-
-- A Raspberry Pi per pair;
-- Latest NOOBS SD card with the Sonic Pi software installed per pair;
-- A keyboard and mouse connected to the RPi per pair;
-- A monitor connected to the RPi per pair;
-- A headphone splitter connected to the RPi audio jack per pair;
-- A pair of headphones connected to the splitter per student.
-
 ## Lessons
 
-- [Lesson 1 - Getting started with Sonic Pi on a Raspberry Pi](lesson-1/lesson.md)
+- [Lesson 1 - Getting started with Sonic Pi on a Computer](lesson-1/lesson.md)
 - [Lesson 2 - Debugging & Iteration](lesson-2/lesson.md)
 - [Lesson 3 - Conditionals & Randomisation](lesson-3/lesson.md)
 - [Lesson 4 - Data Structures](lesson-4/lesson.md)
@@ -59,8 +35,6 @@ For the majority of the lesson, it is suggested that work is carried out by stud
 ## Community
 
 For more information, take a look at the [Sonic Pi website](http://sonic-pi.net).
-
-If you would like to contribute to this project or have questions about it please use the [Sonic Pi Forum here](https://groups.google.com/forum/#!forum/sonic-pi).
 
 For the latest news, take a look at the [Sonic Pi Twitter account](https://twitter.com/sonic_pi) and sign up to the [Sonic Pi Weekly](http://eepurl.com/9SLYX) newsletter.
 
