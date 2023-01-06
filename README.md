@@ -1,6 +1,5 @@
-**This is an archived resource.** The repo will remain available but the resource will no longer be maintained or updated. Some or all parts of the resource may no longer work. To see our latest resources, please visit [raspberrypi.org](http://www.raspberrypi.org).
+# Sonic Pi as a Tool for Learning
 
-# Sonic Pi Scheme of Work
 [Sonic Pi](https://sonic-pi.net) is an open source programming environment developed by Dr Sam Aaron, designed to explore and teach programming concepts through the process of creating new sounds. This is a scheme of work which emphasises the importance of creativity in the learning process and gives users the control to turn their sonic ideas into reality.
 
 ## Updates
